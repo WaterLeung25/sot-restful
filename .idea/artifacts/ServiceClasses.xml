@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServiceClasses">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServiceClasses</output-path>
+    <root id="archive" name="ServiceClasses.jar">
+      <element id="directory" name="gameService">
+        <element id="directory" name="gameWhatever">
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/Week4_GameService/gameService/gameWhatever/Maja.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/Week4_GameService/gameService/gameWhatever/Player.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/Week4_GameService/gameService/gameWhatever/Score.class" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Week4_GameService:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Week4_GameService_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Week4_GameService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Week4_GameService" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="libService" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/Week4_GameService/web/WEB-INF/web.xml" />
+      </element>
+    </root>
+  </artifact>
+</component>
